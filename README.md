@@ -1,4 +1,4 @@
-Sketch program:
+#Sketch program:
 A sketching program that lets users draw on the screen using a mouse. It support basic feature such as change stroke width, multiple colors, windows resizing.
 
 
