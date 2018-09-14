@@ -9,4 +9,4 @@ Customizable color palette, the last two button of color palette will store rece
 [![Demo CountPages alpha](https://j.gifs.com/kZnmAE.gif)](https://youtu.be/mgfCKeRFI-8)
 
 ## License
-QuickChat, copyright [Desmond Wang](https://github.com/desmond-wang), under the MIT license - see the [LICENSE.md](LICENSE.md) file for details
+ImageSketch, copyright [Desmond Wang](https://github.com/desmond-wang), under the MIT license - see the [LICENSE.md](LICENSE.md) file for details
